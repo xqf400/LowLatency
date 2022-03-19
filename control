@@ -1,0 +1,9 @@
+Package: me.cluda.lowlatency
+Name: LowLatency
+Depends: mobilesubstrate, firmware (>= 13.0)
+Version: 0.9
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: cluda
+Author: cluda
+Section: Tweaks
